@@ -66,8 +66,8 @@ This project uses a microservice architecture with the following components:
 Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/ecommerce-microservices
-cd ecommerce-microservices
+git clone https://github.com/rahijamil/springboot-ecommerce-microservices.git
+cd springboot-ecommerce-microservices
 ````
 
 ---
